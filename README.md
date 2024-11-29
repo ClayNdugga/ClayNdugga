@@ -33,6 +33,7 @@ Developer Tools:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 Libraries/Frameworks: 
+![Azure](https://img.shields.io/badge/aws-%230072C6.svg?style=for-the-badge&logo=aws&logoColor=orange)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6da55f.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)

@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-I am a highly motivated Mathematics and Engineering graduate with a passion for machine learning and software design. I also have experience building scalable cloud solutions in Azure, and in full‑stack web development. 
+I am a highly motivated Mathematics and Engineering graduate with a passion for machine learning and software design. I have industry experience building scalable cloud solutions in Azure, machine learning, and practical knowledge of full‑stack web development. 
 
 ## 🚀 What I'm Up To
 
